@@ -23,6 +23,9 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   The Well Church Lake Stevens is a church committed to John 4 - providing 
   a place for those who are in search of the Living Water.
+keywords: >-
+  The Well Church, the well church, lake stevens church, the well lake stevens,
+  Lake Stevens Church, the well snohomish, snohomish church, Greg McMullen, 2nd Life Youth, 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -35,11 +38,11 @@ navigation:
   url: /ministries/
 - title: Team
   url: /team/
-- title: Events
-  url: /events/
+- title: Calendar
+  url: /calendar/
 - title: Media
   url: /media/
 - title: Food Ministry
   url: /food/
 - title: Co-op School
-  url: /coop/
+  url: /co-op/
